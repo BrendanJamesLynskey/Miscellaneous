@@ -1,14 +1,8 @@
 # Miscellaneous
 
-Everything else — cryptography, power electronics, software engineering topics, and personal projects.
+Everything else — power electronics, software engineering topics, and personal projects.
 
 ---
-
-## Cryptography & Security
-
-| Project | Description |
-|---------|-------------|
-| [Cryptography](https://github.com/BrendanJamesLynskey/Cryptography) | Interactive presentation series covering modern cryptographic systems — mathematics, NIST standards, SystemVerilog RTL and Python implementations |
 
 ## Software Engineering
 
