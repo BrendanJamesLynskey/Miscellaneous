@@ -25,3 +25,4 @@ Everything else — power electronics, software engineering topics, and personal
 | [Psychology](https://github.com/BrendanJamesLynskey/Psychology) | Interactive presentations on Carl Jung and Sigmund Freud |
 | [JT](https://github.com/BrendanJamesLynskey/JT) | Interactive HTML projects — a zombie FPS game and a Roblox marketing presentation |
 | [Mother's Day 2026](https://github.com/BrendanJamesLynskey/MothersDay2026) | Chicken-themed memory matching game with 16 hand-drawn SVG breeds |
+| [Taylor Series Visualisation](https://github.com/BrendanJamesLynskey/Taylor_Series_Visualisation) | Interactive Plotly.js visualisations of Taylor polynomial approximations for 20 functions — convergence regions, adjustable order, dark theme |
