@@ -22,6 +22,7 @@ Everything else — power electronics, software engineering topics, and personal
 | Project | Description |
 |---------|-------------|
 | [Taylor Series Visualisation](https://github.com/BrendanJamesLynskey/Taylor_Series_Visualisation) | Interactive Plotly.js visualisations of Taylor polynomial approximations for 20 functions — convergence regions, adjustable order, dark theme |
+| [Complex Taylor Series Visualisation](https://github.com/BrendanJamesLynskey/Complex_Taylor_Series_Visualisation) | Domain colouring and 3D magnitude surfaces for Taylor series of 12 complex functions — split-view comparison, presets, convergence boundaries |
 
 ## Other
 
