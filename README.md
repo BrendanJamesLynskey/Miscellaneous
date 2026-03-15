@@ -25,3 +25,4 @@ Everything else — power electronics, software engineering topics, and personal
 | [JT](https://github.com/BrendanJamesLynskey/JT) | Interactive HTML projects — a zombie FPS game and a Roblox marketing presentation |
 | [JW](https://github.com/BrendanJamesLynskey/JW) | A-10 Warthog ground attack simulator — browser-based flight combat with the GAU-8 Avenger, Maverick missiles, and Hydra rockets |
 | [Mother's Day 2026](https://github.com/BrendanJamesLynskey/MothersDay2026) | Chicken-themed memory matching game with 16 hand-drawn SVG breeds |
+| [Cognitive Speed Training](https://github.com/BrendanJamesLynskey/Cognitive_Speed_Training) | Web-based cognitive speed training game — five modes of processing-speed exercise shown in the ACTIVE study to reduce dementia risk by 29% |
