@@ -1,6 +1,6 @@
 # Miscellaneous
 
-Everything else — power electronics, software engineering topics, and personal projects.
+Everything else — software engineering topics and personal projects.
 
 ---
 
@@ -10,13 +10,6 @@ Everything else — power electronics, software engineering topics, and personal
 | --- | --- |
 | [Introduction to CI/CD](https://github.com/BrendanJamesLynskey/Introduction_to_CI_CD) | Interactive presentation on continuous integration and deployment — pipelines, deployment strategies, observability, and DORA metrics |
 | [Introduction to Databases](https://github.com/BrendanJamesLynskey/Introduction_to_Databases) | Slide deck covering relational theory, SQL, transactions, indexing, NoSQL models, and choosing the right database engine |
-
-## Power Electronics
-
-| Project | Description |
-| --- | --- |
-| [DC-DC Converter Control Techniques](https://github.com/BrendanJamesLynskey/DCDC_Control_Techniques) | Interactive Reveal.js presentation covering PWM (voltage-mode, peak/valley/average current-mode), PFM, hysteretic, and constant on-time (COT) control — with interactive waveform and efficiency graphics, tradeoff comparisons, and future directions including digital control and GaN |
-| [COT DC-DC Converter](https://github.com/BrendanJamesLynskey/COT_DCDC_Simulink) | MATLAB/Simulink constant on-time DC-DC converter model, adapted from the NPTEL course on switched mode power converter control |
 
 ## Other
 
