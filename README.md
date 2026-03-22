@@ -10,6 +10,7 @@ Everything else — software engineering topics and personal projects.
 | --- | --- |
 | [Introduction to CI/CD](https://github.com/BrendanJamesLynskey/Introduction_to_CI_CD) | Interactive presentation on continuous integration and deployment — pipelines, deployment strategies, observability, and DORA metrics |
 | [Introduction to Databases](https://github.com/BrendanJamesLynskey/Introduction_to_Databases) | Slide deck covering relational theory, SQL, transactions, indexing, NoSQL models, and choosing the right database engine |
+| [Anthropic Claude Series](https://github.com/BrendanJamesLynskey/Claude) | 10-part interactive presentation series covering all aspects of Anthropic Claude — models, Claude.ai, Claude Code, API & SDKs, integrations, agents, productivity workflows, and future capabilities |
 
 ## Other
 
