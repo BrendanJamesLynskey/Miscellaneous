@@ -10,6 +10,9 @@ Everything else — software engineering topics and personal projects.
 | --- | --- |
 | [Introduction to CI/CD](https://github.com/BrendanJamesLynskey/Introduction_to_CI_CD) | Interactive presentation on continuous integration and deployment — pipelines, deployment strategies, observability, and DORA metrics |
 | [Introduction to Databases](https://github.com/BrendanJamesLynskey/Introduction_to_Databases) | Slide deck covering relational theory, SQL, transactions, indexing, NoSQL models, and choosing the right database engine |
+| [Deploying Web Applications](https://brendanjameslynskey.github.io/Deploying_Web_Applications/) | Interactive presentation on deploying web apps — static hosting, PaaS, cloud providers, DNS, HTTPS, and deployment strategies for free and paid access |
+| [Deploying with Docker](https://brendanjameslynskey.github.io/Deploying_with_Docker/) | Interactive presentation on Docker and containers — Dockerfiles, Compose, registries, Kubernetes basics, and cloud container hosting |
+| [Monetising & Distributing Software](https://brendanjameslynskey.github.io/Monetising_and_Distributing_Software/) | Interactive presentation on turning code into a product — SaaS, licensing, Stripe integration, app stores, and scaling from free to paid |
 
 
 ## Other
