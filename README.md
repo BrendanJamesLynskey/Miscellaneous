@@ -4,6 +4,21 @@ Everything else — software engineering topics and personal projects.
 
 ---
 
+## Interview Preparation
+
+| Subject | Repository |
+| --- | --- |
+| Python | [Interview_Python](https://github.com/BrendanJamesLynskey/Interview_Python) |
+| JavaScript / TypeScript | [Interview_JavaScript_TypeScript](https://github.com/BrendanJamesLynskey/Interview_JavaScript_TypeScript) |
+| Modern Web Technologies | [Interview_Web_Technologies](https://github.com/BrendanJamesLynskey/Interview_Web_Technologies) |
+| VHDL | [Interview_VHDL](https://github.com/BrendanJamesLynskey/Interview_VHDL) |
+| Verilog | [Interview_Verilog](https://github.com/BrendanJamesLynskey/Interview_Verilog) |
+| SystemVerilog | [Interview_SystemVerilog](https://github.com/BrendanJamesLynskey/Interview_SystemVerilog) |
+| Digital Hardware Design | [Interview_Digital_Hardware_Design](https://github.com/BrendanJamesLynskey/Interview_Digital_Hardware_Design) |
+| C | [Interview_C](https://github.com/BrendanJamesLynskey/Interview_C) |
+| C++ | [Interview_CPP](https://github.com/BrendanJamesLynskey/Interview_CPP) |
+| Power Supply Design | [Interview_Power_Supply_Design](https://github.com/BrendanJamesLynskey/Interview_Power_Supply_Design) |
+
 ## Software Engineering
 
 | Project | Description |
