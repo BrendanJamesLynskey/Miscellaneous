@@ -23,6 +23,7 @@ Everything else — software engineering topics and personal projects.
 | Transformer Architecture | [Interview_Transformer_Architecture](https://github.com/BrendanJamesLynskey/Interview_Transformer_Architecture) |
 | Agentic AI | [Interview_Agentic_AI](https://github.com/BrendanJamesLynskey/Interview_Agentic_AI) |
 | Digital Signal Processing | [Interview_DSP](https://github.com/BrendanJamesLynskey/Interview_DSP) |
+| Signal Integrity and Power Integrity | [Interview_SI_PI](https://github.com/BrendanJamesLynskey/Interview_SI_PI) |
 
 ## Software Engineering
 
