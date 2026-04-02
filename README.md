@@ -24,6 +24,13 @@ Everything else — software engineering topics and personal projects.
 | Agentic AI | [Interview_Agentic_AI](https://github.com/BrendanJamesLynskey/Interview_Agentic_AI) |
 | Digital Signal Processing | [Interview_DSP](https://github.com/BrendanJamesLynskey/Interview_DSP) |
 | Signal Integrity and Power Integrity | [Interview_SI_PI](https://github.com/BrendanJamesLynskey/Interview_SI_PI) |
+| FPGA Design | [Interview_FPGA](https://github.com/BrendanJamesLynskey/Interview_FPGA) |
+| SoC Architecture | [Interview_SoC_Architecture](https://github.com/BrendanJamesLynskey/Interview_SoC_Architecture) |
+| Embedded Systems | [Interview_Embedded_Systems](https://github.com/BrendanJamesLynskey/Interview_Embedded_Systems) |
+| RISC-V ISA | [Interview_RISC_V](https://github.com/BrendanJamesLynskey/Interview_RISC_V) |
+| Machine Learning | [Interview_Machine_Learning](https://github.com/BrendanJamesLynskey/Interview_Machine_Learning) |
+| PCB Design and Electronics | [Interview_PCB_Electronics](https://github.com/BrendanJamesLynskey/Interview_PCB_Electronics) |
+| Cryptography | [Interview_Cryptography](https://github.com/BrendanJamesLynskey/Interview_Cryptography) |
 
 ## Software Engineering
 
