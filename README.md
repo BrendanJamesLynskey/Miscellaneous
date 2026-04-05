@@ -41,6 +41,7 @@ Everything else — software engineering topics and personal projects.
 | [Deploying Web Applications](https://brendanjameslynskey.github.io/Deploying_Web_Applications/) | Interactive presentation on deploying web apps — static hosting, PaaS, cloud providers, DNS, HTTPS, and deployment strategies for free and paid access |
 | [Deploying with Docker](https://brendanjameslynskey.github.io/Deploying_with_Docker/) | Interactive presentation on Docker and containers — Dockerfiles, Compose, registries, Kubernetes basics, and cloud container hosting |
 | [Deploying Node.js Microservices](https://brendanjameslynskey.github.io/Deploying_Node_Microservices/) | Interactive presentation on deploying Node.js microservices — service design, containerisation, inter-service communication, Kubernetes, AWS, and production observability |
+| [Introduction to Node.js](https://brendanjameslynskey.github.io/Introduction_to_Node_js/) | Interactive presentation on Node.js — V8 engine, event loop, async I/O, streams, Express middleware, npm, security, and scaling to production |
 | [Monetising & Distributing Software](https://brendanjameslynskey.github.io/Monetising_and_Distributing_Software/) | Interactive presentation on turning code into a product — SaaS, licensing, Stripe integration, app stores, and scaling from free to paid |
 | [tmux with Claude Code](https://brendanjameslynskey.github.io/TMUX_with_Claude_Code/) | Interactive presentation on tmux — terminal multiplexing, session management, pane workflows, and optimal use with Claude Code |
 
