@@ -46,6 +46,7 @@ Everything else — software engineering topics and personal projects.
 | [Monetising & Distributing Software](https://brendanjameslynskey.github.io/Monetising_and_Distributing_Software/) | Interactive presentation on turning code into a product — SaaS, licensing, Stripe integration, app stores, and scaling from free to paid |
 | [tmux with Claude Code](https://brendanjameslynskey.github.io/TMUX_with_Claude_Code/) | Interactive presentation on tmux — terminal multiplexing, session management, pane workflows, and optimal use with Claude Code |
 | [Introduction to WebSockets](https://brendanjameslynskey.github.io/Introduction_to_WebSockets/) | Interactive presentation on WebSockets — RFC 6455, browser API, Node.js ws, Socket.IO, scaling, security, and real-time communication patterns |
+| [Introduction to Server-Sent Events](https://brendanjameslynskey.github.io/Introduction_to_Server_Sent_Events/) | Interactive presentation on Server-Sent Events — EventSource API, text/event-stream protocol, auto-reconnect, AI/LLM streaming, scaling, and security |
 
 
 ## Other
