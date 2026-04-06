@@ -46,6 +46,7 @@ Everything else — software engineering topics and personal projects.
 | [Monetising & Distributing Software](https://brendanjameslynskey.github.io/Monetising_and_Distributing_Software/) ([md](https://github.com/BrendanJamesLynskey/Monetising_and_Distributing_Software/blob/main/presentation.md)) | Interactive presentation on turning code into a product — SaaS, licensing, Stripe integration, app stores, and scaling from free to paid |
 | [tmux with Claude Code](https://brendanjameslynskey.github.io/TMUX_with_Claude_Code/) ([md](https://github.com/BrendanJamesLynskey/TMUX_with_Claude_Code/blob/main/presentation.md)) | Interactive presentation on tmux — terminal multiplexing, session management, pane workflows, and optimal use with Claude Code |
 | [MCP Gateway Playground](https://github.com/BrendanJamesLynskey/MCP_Gateway_Playground) | Docker MCP Gateway demo — custom MCP servers for tools, resources, and prompts behind a gateway, with a web-based client UI |
+| [MCP Supergateway Playground](https://github.com/BrendanJamesLynskey/MCP_Supergateway_Playground) | MCP playground using supergateway — three MCP servers with SSE bridge, web UI, and CLI control for Claude Code mobile |
 
 ## Web Development
 
