@@ -31,6 +31,9 @@ Everything else — software engineering topics and personal projects.
 | Machine Learning | [Interview_Machine_Learning](https://github.com/BrendanJamesLynskey/Interview_Machine_Learning) |
 | PCB Design and Electronics | [Interview_PCB_Electronics](https://github.com/BrendanJamesLynskey/Interview_PCB_Electronics) |
 | Cryptography | [Interview_Cryptography](https://github.com/BrendanJamesLynskey/Interview_Cryptography) |
+| Agentic Engineering | [Interview_Agentic_Engineering](https://github.com/BrendanJamesLynskey/Interview_Agentic_Engineering) |
+| DevOps | [Interview_DevOps](https://github.com/BrendanJamesLynskey/Interview_DevOps) |
+| Security Engineering | [Interview_Security_Engineering](https://github.com/BrendanJamesLynskey/Interview_Security_Engineering) |
 
 ## Software Engineering
 
