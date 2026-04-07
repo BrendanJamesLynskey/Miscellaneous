@@ -37,6 +37,8 @@ Everything else — software engineering topics and personal projects.
 | SoC Packaging | [Interview_SoC_Packaging](https://github.com/BrendanJamesLynskey/Interview_SoC_Packaging) |
 | SoC Power Delivery | [Interview_SoC_Power_Delivery](https://github.com/BrendanJamesLynskey/Interview_SoC_Power_Delivery) |
 | AI Accelerator Architecture | [Interview_AI_Accelerator_Architecture](https://github.com/BrendanJamesLynskey/Interview_AI_Accelerator_Architecture) |
+| High Speed Serial Links for AI | [Interview_High_Speed_Serial_Links](https://github.com/BrendanJamesLynskey/Interview_High_Speed_Serial_Links) |
+| LPDDRx Layout | [Interview_LPDDRx_Layout](https://github.com/BrendanJamesLynskey/Interview_LPDDRx_Layout) |
 
 ## Software Engineering
 
