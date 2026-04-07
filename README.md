@@ -34,6 +34,9 @@ Everything else — software engineering topics and personal projects.
 | Agentic Engineering | [Interview_Agentic_Engineering](https://github.com/BrendanJamesLynskey/Interview_Agentic_Engineering) |
 | DevOps | [Interview_DevOps](https://github.com/BrendanJamesLynskey/Interview_DevOps) |
 | Security Engineering | [Interview_Security_Engineering](https://github.com/BrendanJamesLynskey/Interview_Security_Engineering) |
+| SoC Packaging | [Interview_SoC_Packaging](https://github.com/BrendanJamesLynskey/Interview_SoC_Packaging) |
+| SoC Power Delivery | [Interview_SoC_Power_Delivery](https://github.com/BrendanJamesLynskey/Interview_SoC_Power_Delivery) |
+| AI Accelerator Architecture | [Interview_AI_Accelerator_Architecture](https://github.com/BrendanJamesLynskey/Interview_AI_Accelerator_Architecture) |
 
 ## Software Engineering
 
