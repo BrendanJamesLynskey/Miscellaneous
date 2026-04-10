@@ -39,6 +39,10 @@ Everything else — software engineering topics and personal projects.
 | AI Accelerator Architecture | [Interview_AI_Accelerator_Architecture](https://github.com/BrendanJamesLynskey/Interview_AI_Accelerator_Architecture) |
 | High Speed Serial Links for AI | [Interview_High_Speed_Serial_Links](https://github.com/BrendanJamesLynskey/Interview_High_Speed_Serial_Links) |
 | LPDDRx Layout | [Interview_LPDDRx_Layout](https://github.com/BrendanJamesLynskey/Interview_LPDDRx_Layout) |
+| Computer Architecture | [Interview_Computer_Architecture](https://github.com/BrendanJamesLynskey/Interview_Computer_Architecture) |
+| Operating Systems | [Interview_Operating_Systems](https://github.com/BrendanJamesLynskey/Interview_Operating_Systems) |
+| CUDA | [Interview_CUDA](https://github.com/BrendanJamesLynskey/Interview_CUDA) |
+| Low Power Design | [Interview_Low_Power_Design](https://github.com/BrendanJamesLynskey/Interview_Low_Power_Design) |
 
 ## Software Engineering
 
