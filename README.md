@@ -47,6 +47,7 @@ Everything else — software engineering topics and personal projects.
 | Distributed Systems | [Interview_Distributed_Systems](https://github.com/BrendanJamesLynskey/Interview_Distributed_Systems) |
 | Networking | [Interview_Networking](https://github.com/BrendanJamesLynskey/Interview_Networking) |
 | Rust | [Interview_Rust](https://github.com/BrendanJamesLynskey/Interview_Rust) |
+| Model Context Protocol (MCP) | [Interview_MCP](https://github.com/BrendanJamesLynskey/Interview_MCP) |
 
 ## Software Engineering
 
