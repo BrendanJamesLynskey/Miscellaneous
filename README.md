@@ -43,6 +43,10 @@ Everything else — software engineering topics and personal projects.
 | Operating Systems | [Interview_Operating_Systems](https://github.com/BrendanJamesLynskey/Interview_Operating_Systems) |
 | CUDA | [Interview_CUDA](https://github.com/BrendanJamesLynskey/Interview_CUDA) |
 | Low Power Design | [Interview_Low_Power_Design](https://github.com/BrendanJamesLynskey/Interview_Low_Power_Design) |
+| Compilers | [Interview_Compilers](https://github.com/BrendanJamesLynskey/Interview_Compilers) |
+| Distributed Systems | [Interview_Distributed_Systems](https://github.com/BrendanJamesLynskey/Interview_Distributed_Systems) |
+| Networking | [Interview_Networking](https://github.com/BrendanJamesLynskey/Interview_Networking) |
+| Rust | [Interview_Rust](https://github.com/BrendanJamesLynskey/Interview_Rust) |
 
 ## Software Engineering
 
