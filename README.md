@@ -49,6 +49,12 @@ Everything else — software engineering topics and personal projects.
 | Rust | [Interview_Rust](https://github.com/BrendanJamesLynskey/Interview_Rust) |
 | Model Context Protocol (MCP) | [Interview_MCP](https://github.com/BrendanJamesLynskey/Interview_MCP) |
 
+## GitHub
+
+| Project | Description |
+| --- | --- |
+| [Introduction to GitHub](https://brendanjameslynskey.github.io/Introduction_to_GitHub/) ([md](https://github.com/BrendanJamesLynskey/Introduction_to_GitHub/blob/main/presentation.md)) | Interactive presentation on GitHub — repositories, pull requests, Actions, GitHub CLI, security features, Copilot, GitLab comparison, and alternative platforms |
+
 ## Software Engineering
 
 | Project | Description |
