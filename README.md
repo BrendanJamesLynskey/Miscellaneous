@@ -56,6 +56,11 @@ Everything else — personal projects, tools, and other topics.
 | Software Testing | [Interview_Software_Testing](https://github.com/BrendanJamesLynskey/Interview_Software_Testing) |
 | API Design | [Interview_API_Design](https://github.com/BrendanJamesLynskey/Interview_API_Design) |
 | Concurrency and Parallelism | [Interview_Concurrency](https://github.com/BrendanJamesLynskey/Interview_Concurrency) |
+| CI/CD | [Interview_CI_CD](https://github.com/BrendanJamesLynskey/Interview_CI_CD) |
+| Cloud Computing | [Interview_Cloud_Computing](https://github.com/BrendanJamesLynskey/Interview_Cloud_Computing) |
+| Containers and Kubernetes | [Interview_Containers_Kubernetes](https://github.com/BrendanJamesLynskey/Interview_Containers_Kubernetes) |
+| Observability and SRE | [Interview_Observability_SRE](https://github.com/BrendanJamesLynskey/Interview_Observability_SRE) |
+| Technical Leadership | [Interview_Technical_Leadership](https://github.com/BrendanJamesLynskey/Interview_Technical_Leadership) |
 
 ## GitHub
 
