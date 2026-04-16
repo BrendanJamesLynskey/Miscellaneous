@@ -48,6 +48,14 @@ Everything else — personal projects, tools, and other topics.
 | Networking | [Interview_Networking](https://github.com/BrendanJamesLynskey/Interview_Networking) |
 | Rust | [Interview_Rust](https://github.com/BrendanJamesLynskey/Interview_Rust) |
 | Model Context Protocol (MCP) | [Interview_MCP](https://github.com/BrendanJamesLynskey/Interview_MCP) |
+| Algorithms | [Interview_Algorithms](https://github.com/BrendanJamesLynskey/Interview_Algorithms) |
+| Data Structures | [Interview_Data_Structures](https://github.com/BrendanJamesLynskey/Interview_Data_Structures) |
+| Databases | [Interview_Databases](https://github.com/BrendanJamesLynskey/Interview_Databases) |
+| System Design | [Interview_System_Design](https://github.com/BrendanJamesLynskey/Interview_System_Design) |
+| Design Patterns | [Interview_Design_Patterns](https://github.com/BrendanJamesLynskey/Interview_Design_Patterns) |
+| Software Testing | [Interview_Software_Testing](https://github.com/BrendanJamesLynskey/Interview_Software_Testing) |
+| API Design | [Interview_API_Design](https://github.com/BrendanJamesLynskey/Interview_API_Design) |
+| Concurrency and Parallelism | [Interview_Concurrency](https://github.com/BrendanJamesLynskey/Interview_Concurrency) |
 
 ## GitHub
 
