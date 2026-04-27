@@ -61,6 +61,7 @@ Everything else — personal projects, tools, and other topics.
 | Containers and Kubernetes | [Interview_Containers_Kubernetes](https://github.com/BrendanJamesLynskey/Interview_Containers_Kubernetes) |
 | Observability and SRE | [Interview_Observability_SRE](https://github.com/BrendanJamesLynskey/Interview_Observability_SRE) |
 | Technical Leadership | [Interview_Technical_Leadership](https://github.com/BrendanJamesLynskey/Interview_Technical_Leadership) |
+| NVIDIA GenAI LLMs Certification (NCA-GENL + NCP-GENL) | [NVIDIA_GenAI_LLMs_Cert_Prep](https://github.com/BrendanJamesLynskey/NVIDIA_GenAI_LLMs_Cert_Prep) |
 
 ## GitHub
 
