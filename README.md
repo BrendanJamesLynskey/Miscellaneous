@@ -63,6 +63,12 @@ Everything else — personal projects, tools, and other topics.
 | Technical Leadership | [Interview_Technical_Leadership](https://github.com/BrendanJamesLynskey/Interview_Technical_Leadership) |
 | NVIDIA GenAI LLMs Certification (NCA-GENL + NCP-GENL) | [NVIDIA_GenAI_LLMs_Cert_Prep](https://github.com/BrendanJamesLynskey/NVIDIA_GenAI_LLMs_Cert_Prep) |
 
+## Career & Job Market
+
+| Project | Description |
+| --- | --- |
+| [UK Employer Landscape](https://brendanjameslynskey.github.io/UK_Employer_Landscape/) ([repo](https://github.com/BrendanJamesLynskey/UK_Employer_Landscape)) | Research-backed map of UK employers across six job categories (Agentic AI/LLM · AI HW/SoC · FPGA/RTL · PI/SI/Power · DSP/Audio/Broadcast · Embedded Linux) — interactive UK heatmap, top-employer tables, regional concentration scores, live job-posting estimates, Yorkshire & Greater Manchester deep-dive |
+
 ## GitHub
 
 | Project | Description |
