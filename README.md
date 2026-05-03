@@ -20,6 +20,7 @@ Everything else — personal projects, tools, and other topics.
 | Power Supply Design | [Interview_Power_Supply_Design](https://github.com/BrendanJamesLynskey/Interview_Power_Supply_Design) |
 | RTL Design for LLM Accelerators | [Interview_RTL_LLM_Accelerators](https://github.com/BrendanJamesLynskey/Interview_RTL_LLM_Accelerators) |
 | Agentic Frameworks (LangGraph, LangChain, CrewAI) | [Interview_Agentic_Frameworks](https://github.com/BrendanJamesLynskey/Interview_Agentic_Frameworks) |
+| LangGraph | [Interview_LangGraph](https://github.com/BrendanJamesLynskey/Interview_LangGraph) |
 | Transformer Architecture | [Interview_Transformer_Architecture](https://github.com/BrendanJamesLynskey/Interview_Transformer_Architecture) |
 | Agentic AI | [Interview_Agentic_AI](https://github.com/BrendanJamesLynskey/Interview_Agentic_AI) |
 | Digital Signal Processing | [Interview_DSP](https://github.com/BrendanJamesLynskey/Interview_DSP) |
