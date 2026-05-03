@@ -69,12 +69,6 @@ Everything else — personal projects, tools, and other topics.
 | --- | --- |
 | [UK Employer Landscape](https://brendanjameslynskey.github.io/UK_Employer_Landscape/) ([repo](https://github.com/BrendanJamesLynskey/UK_Employer_Landscape)) | Research-backed map of UK employers across six job categories (Agentic AI/LLM · AI HW/SoC · FPGA/RTL · PI/SI/Power · DSP/Audio/Broadcast · Embedded Linux) — interactive UK heatmap, top-employer tables, regional concentration scores, live job-posting estimates, Yorkshire & Greater Manchester deep-dive |
 
-## GitHub
-
-| Project | Description |
-| --- | --- |
-| [Introduction to GitHub](https://brendanjameslynskey.github.io/Introduction_to_GitHub/) ([md](https://github.com/BrendanJamesLynskey/Introduction_to_GitHub/blob/main/presentation.md)) | Interactive presentation on GitHub — repositories, pull requests, Actions, GitHub CLI, security features, Copilot, GitLab comparison, and alternative platforms |
-
 ## Psychology & Philosophy
 
 | Project | Description |
