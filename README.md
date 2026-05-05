@@ -85,6 +85,7 @@ Everything else — personal projects, tools, and other topics.
 | [Chess Tutor](https://brendanjameslynskey.github.io/ChessTutor/) | Interactive chess tutor — learn to play chess step by step with beautiful graphics, interactive boards, puzzles, and tactics lessons. Desktop and mobile versions |
 | [JT](https://github.com/BrendanJamesLynskey/JT) | Interactive HTML projects — a low-flight helicopter VR game (Rotor), a zombie FPS, and a Roblox marketing presentation |
 | [JW](https://github.com/BrendanJamesLynskey/JW) | A-10 Warthog ground attack simulator — browser-based flight combat with the GAU-8 Avenger, Maverick missiles, and Hydra rockets. README also indexes the PlaneForge designer, the UK Railways & Trains presentation series, and the Airedale Line Class 333 driver simulator |
+| [job-search-stats](https://github.com/BrendanJamesLynskey/job-search-stats) | Daily UK job-market snapshot history — open-position counts across four target areas (Agentic AI, HW/Power, FPGA, DSP), updated each morning by a scheduled Claude Code routine |
 | [Mother's Day 2026](https://github.com/BrendanJamesLynskey/MothersDay2026) | Chicken-themed memory matching game with 16 hand-drawn SVG breeds |
 | [Cognitive Speed Training](https://github.com/BrendanJamesLynskey/Cognitive_Speed_Training) | Web-based cognitive speed training game — five modes of processing-speed exercise shown in the ACTIVE study to reduce dementia risk by 29% |
 | [dummy_001](https://github.com/BrendanJamesLynskey/dummy_001) | Dummy repository 001 |
