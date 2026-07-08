@@ -77,6 +77,12 @@ Everything else — personal projects, tools, and other topics.
 | --- | --- |
 | [Psychology & Philosophy](https://brendanjameslynskey.github.io/Psychology_Philosophy/) ([repo](https://github.com/BrendanJamesLynskey/Psychology_Philosophy)) | 42 interactive Reveal.js presentations spanning 2,500 years of Western intellectual history — psychology, existentialism, phenomenology, medieval and ancient philosophy |
 
+## Music
+
+| Project | Description |
+| --- | --- |
+| [A History of Early Music](https://brendanjameslynskey.github.io/Early_Music/) ([repo](https://github.com/BrendanJamesLynskey/Early_Music)) | 20 interactive Reveal.js presentations tracing a thousand years of Western music — Medieval, Renaissance and early Baroque composers and schools (plainchant, Notre-Dame, Machaut, Josquin, Palestrina, Byrd, Monteverdi and more), with in-browser Web Audio examples, links to recordings, and guides to reading the notation of each age |
+
 ## Other
 
 | Project | Description |
