@@ -81,7 +81,7 @@ Everything else — personal projects, tools, and other topics.
 
 | Project | Description |
 | --- | --- |
-| [A History of Early Music](https://brendanjameslynskey.github.io/Early_Music/) ([repo](https://github.com/BrendanJamesLynskey/Early_Music)) | 20 interactive Reveal.js presentations tracing a thousand years of Western music — Medieval, Renaissance and early Baroque composers and schools (plainchant, Notre-Dame, Machaut, Josquin, Palestrina, Byrd, Monteverdi and more), with in-browser Web Audio examples, links to recordings, and guides to reading the notation of each age |
+| [A History of Early Music](https://brendanjameslynskey.github.io/Early_Music/) ([repo](https://github.com/BrendanJamesLynskey/Early_Music)) | 22 interactive Reveal.js presentations tracing a thousand years of music — Medieval, Renaissance and early Baroque composers and schools of the West (plainchant, Notre-Dame, Machaut, Josquin, Palestrina, Byrd, Monteverdi and more), plus the Christian East (Byzantine and Slavonic/Russian Orthodox chant), with in-browser Web Audio examples, links to recordings, and guides to reading the notation of each age |
 
 ## Other
 
