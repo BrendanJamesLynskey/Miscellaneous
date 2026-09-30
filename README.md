@@ -93,6 +93,7 @@ Everything else — personal projects, tools, and other topics.
 | [JW](https://github.com/BrendanJamesLynskey/JW) | A-10 Warthog ground attack simulator — browser-based flight combat with the GAU-8 Avenger, Maverick missiles, and Hydra rockets. README also indexes the PlaneForge designer, the UK Railways & Trains presentation series, and the Airedale Line Class 333 driver simulator |
 | [job-search-stats](https://github.com/BrendanJamesLynskey/job-search-stats) | Daily UK job-market snapshot history — open-position counts across four target areas (Agentic AI, HW/Power, FPGA, DSP), updated each morning by a scheduled Claude Code routine |
 | [Mother's Day 2026](https://github.com/BrendanJamesLynskey/MothersDay2026) | Chicken-themed memory matching game with 16 hand-drawn SVG breeds |
+| [LEGO West Country Wheel](https://github.com/BrendanJamesLynskey/Lego_West_Country_Wheel) | 3D-printable STL of the LEGO 85489b large train wheel redesigned as a Bulleid-Firth-Brown disc wheel for a West Country Pacific — keeps LEGO's axle hole, coupling-rod pin hole and counterweight |
 | [Cognitive Speed Training](https://github.com/BrendanJamesLynskey/Cognitive_Speed_Training) | Web-based cognitive speed training game — five modes of processing-speed exercise shown in the ACTIVE study to reduce dementia risk by 29% |
 | [dummy_001](https://github.com/BrendanJamesLynskey/dummy_001) | Dummy repository 001 |
 | [dummy_002](https://github.com/BrendanJamesLynskey/dummy_002) | Dummy repository 002 |
