@@ -70,7 +70,6 @@ Everything else — personal projects, tools, and other topics.
 
 | Project | Description |
 | --- | --- |
-| [UK Employer Landscape](https://brendanjameslynskey.github.io/UK_Employer_Landscape/) ([repo](https://github.com/BrendanJamesLynskey/UK_Employer_Landscape)) | Research-backed map of UK employers across six job categories (Agentic AI/LLM · AI HW/SoC · FPGA/RTL · PI/SI/Power · DSP/Audio/Broadcast · Embedded Linux) — interactive UK heatmap, top-employer tables, regional concentration scores, live job-posting estimates, Yorkshire & Greater Manchester deep-dive |
 
 ## Psychology & Philosophy
 
