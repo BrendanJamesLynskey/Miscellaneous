@@ -13,6 +13,8 @@ Everything else — personal projects, tools, and other topics.
 
 ## Series in this index
 
+3 of the library's 64 series (a series is one hub page that lists its decks).
+
 | Series | What it covers |
 | --- | --- |
 | **[Interview Preparation](https://brendanjameslynskey.github.io/Interview_Prep_Hub/)** | Fifty-seven study repositories of questions, worked answers and quizzes, grouped by track |
